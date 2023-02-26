@@ -22,5 +22,5 @@
   <a href="https://www.linkedin.com/in/gabriel-mello-692649212/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   
-  ![Snake animation](https://github.com/MelloGabriel/MelloGabriel/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MelloGabriel/MelloGabriel/)
 </div>
