@@ -3,7 +3,7 @@
 - I’m currently pursuing my Software Engineering degree
 - I’m currently working as an IT Infrastructure Analyst
 - I’m currently learning Java
-- I’m currently trying to become a Back-End developer
+- I’m currently trying to become a Back-End developer using Java
 
 <div>
   <a href="https://github.com/MelloGabriel">
