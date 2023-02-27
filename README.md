@@ -1,4 +1,4 @@
-### Hi there, my name is Gabriel and I’m Brazilian developer 👋
+### Hi there, my name is Gabriel and I’m a brazilian developer 👋
 
 - I’m currently pursuing my Software Engineering degree
 - I’m currently working as an IT Infrastructure Analyst
@@ -13,6 +13,7 @@
 
 <div>
   <img align="center" alt="Gab-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Gab-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="right" alt="Gab-Gif" height="150" width="150" src="https://gifimgs.com/animations/anime/rurouni-kenshin/rurouni_kenshin_6.gif">
 </div>
 
